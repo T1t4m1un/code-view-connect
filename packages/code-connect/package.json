@@ -1,0 +1,16 @@
+{
+  "name": "@code-view-connet/code-connect",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Yihe",
+  "publishConfig": {
+    "access": "public"
+  },  
+  "license": "GPL-3.0-only"
+}

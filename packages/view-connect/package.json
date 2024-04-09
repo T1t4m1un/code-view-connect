@@ -1,0 +1,13 @@
+{
+  "name": "@code-view-connet/view-connect",
+  "version": "0.0.1-alpha.0",
+  "description": "",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Yihe",
+  "license": "GPL-3.0-only"
+}
